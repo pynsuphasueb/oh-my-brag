@@ -29,3 +29,5 @@
 | HTML, CSS | |   |   |
 | bootstrap framework | |   |   |
 | GIN API | |   |   |
+| Amunsen | |   |   |
+| Data Hub |    |   |
